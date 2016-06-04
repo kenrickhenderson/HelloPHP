@@ -1,0 +1,14 @@
+{
+    "name": "kenrickhenderson/hello-php",
+    "authors": [
+        {
+            "name": "Kenrick Henderson",
+            "email": "kenrickhenderson@maildrop.cc"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+
+        "phpunit/phpunit": "5.4.*"
+    }
+}
