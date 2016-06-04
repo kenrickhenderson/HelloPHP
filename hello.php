@@ -1,8 +1,13 @@
 <?php
 
-function add(int $x, int $y) {
+function int_add(int $x, int $y) {
 
     return $x + $y;
 }
 
-echo add(2, 3);
+function float_add(float $x, float $y) {
+
+    return $x + $y;
+}
+
+echo float_add(2.0, 3.1);
